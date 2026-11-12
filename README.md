@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Salvatore
 
-<!--
-**Salvatore-Megna/Salvatore-Megna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior data scientist with an MSc in Statistics and Data Science from the University of Palermo, and a background in Energy Engineering and Psychology.
 
-Here are some ideas to get you started:
+I work with Python, R and SQL on statistical modeling, machine learning and time series. My main interests are building models, evaluating them on unseen data and understanding their results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my internship at Greenable, I developed energy-price forecasting models and evaluated them with walk-forward validation. My master's thesis explored presidential communication and oil prices using natural language processing.
+
+**Tools:** Python · R · SQL · scikit-learn · PyTorch · Git
+
+The projects below include source code, reports in English and Italian, and documentation of methods and limitations.
+
+[LinkedIn](https://www.linkedin.com/in/salvatore-megna-0434b7324/) · [Email](mailto:salvatore.megna.ds@gmail.com)
